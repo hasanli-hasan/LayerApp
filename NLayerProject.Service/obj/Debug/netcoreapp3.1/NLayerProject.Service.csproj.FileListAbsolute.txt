@@ -12,3 +12,17 @@ E:\User\Hasan\Projects\API\OnionArch\NLayerProject\NLayerProject.Service\bin\Deb
 E:\User\Hasan\Projects\API\OnionArch\NLayerProject\NLayerProject.Service\bin\Debug\netcoreapp3.1\NLayerProject.Data.pdb
 E:\User\Hasan\Projects\API\OnionArch\NLayerProject\NLayerProject.Service\obj\Debug\netcoreapp3.1\NLayerProject.Service.csprojAssemblyReference.cache
 E:\User\Hasan\Projects\API\OnionArch\NLayerProject\NLayerProject.Service\obj\Debug\netcoreapp3.1\NLayerProject.Service.csproj.CopyComplete
+E:\User\Hasan\Projects\API\NLayerProject\NLayerProject.Service\bin\Debug\netcoreapp3.1\NLayerProject.Service.deps.json
+E:\User\Hasan\Projects\API\NLayerProject\NLayerProject.Service\bin\Debug\netcoreapp3.1\NLayerProject.Service.dll
+E:\User\Hasan\Projects\API\NLayerProject\NLayerProject.Service\bin\Debug\netcoreapp3.1\NLayerProject.Service.pdb
+E:\User\Hasan\Projects\API\NLayerProject\NLayerProject.Service\bin\Debug\netcoreapp3.1\NLayerProject.Core.dll
+E:\User\Hasan\Projects\API\NLayerProject\NLayerProject.Service\bin\Debug\netcoreapp3.1\NLayerProject.Data.dll
+E:\User\Hasan\Projects\API\NLayerProject\NLayerProject.Service\bin\Debug\netcoreapp3.1\NLayerProject.Core.pdb
+E:\User\Hasan\Projects\API\NLayerProject\NLayerProject.Service\bin\Debug\netcoreapp3.1\NLayerProject.Data.pdb
+E:\User\Hasan\Projects\API\NLayerProject\NLayerProject.Service\obj\Debug\netcoreapp3.1\NLayerProject.Service.csprojAssemblyReference.cache
+E:\User\Hasan\Projects\API\NLayerProject\NLayerProject.Service\obj\Debug\netcoreapp3.1\NLayerProject.Service.AssemblyInfoInputs.cache
+E:\User\Hasan\Projects\API\NLayerProject\NLayerProject.Service\obj\Debug\netcoreapp3.1\NLayerProject.Service.AssemblyInfo.cs
+E:\User\Hasan\Projects\API\NLayerProject\NLayerProject.Service\obj\Debug\netcoreapp3.1\NLayerProject.Service.csproj.CoreCompileInputs.cache
+E:\User\Hasan\Projects\API\NLayerProject\NLayerProject.Service\obj\Debug\netcoreapp3.1\NLayerProject.Service.csproj.CopyComplete
+E:\User\Hasan\Projects\API\NLayerProject\NLayerProject.Service\obj\Debug\netcoreapp3.1\NLayerProject.Service.dll
+E:\User\Hasan\Projects\API\NLayerProject\NLayerProject.Service\obj\Debug\netcoreapp3.1\NLayerProject.Service.pdb

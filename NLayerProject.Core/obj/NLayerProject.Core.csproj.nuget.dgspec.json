@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\User\\Hasan\\Projects\\API\\OnionArch\\NLayerProject\\NLayerProject.Core\\NLayerProject.Core.csproj": {}
+    "E:\\User\\Hasan\\Projects\\API\\NLayerProject\\NLayerProject.Core\\NLayerProject.Core.csproj": {}
   },
   "projects": {
-    "E:\\User\\Hasan\\Projects\\API\\OnionArch\\NLayerProject\\NLayerProject.Core\\NLayerProject.Core.csproj": {
+    "E:\\User\\Hasan\\Projects\\API\\NLayerProject\\NLayerProject.Core\\NLayerProject.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\User\\Hasan\\Projects\\API\\OnionArch\\NLayerProject\\NLayerProject.Core\\NLayerProject.Core.csproj",
+        "projectUniqueName": "E:\\User\\Hasan\\Projects\\API\\NLayerProject\\NLayerProject.Core\\NLayerProject.Core.csproj",
         "projectName": "NLayerProject.Core",
-        "projectPath": "E:\\User\\Hasan\\Projects\\API\\OnionArch\\NLayerProject\\NLayerProject.Core\\NLayerProject.Core.csproj",
+        "projectPath": "E:\\User\\Hasan\\Projects\\API\\NLayerProject\\NLayerProject.Core\\NLayerProject.Core.csproj",
         "packagesPath": "C:\\Users\\Hasan\\.nuget\\packages\\",
-        "outputPath": "E:\\User\\Hasan\\Projects\\API\\OnionArch\\NLayerProject\\NLayerProject.Core\\obj\\",
+        "outputPath": "E:\\User\\Hasan\\Projects\\API\\NLayerProject\\NLayerProject.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -44,6 +44,14 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.14, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

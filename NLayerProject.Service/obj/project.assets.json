@@ -5641,11 +5641,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\User\\Hasan\\Projects\\API\\OnionArch\\NLayerProject\\NLayerProject.Service\\NLayerProject.Service.csproj",
+      "projectUniqueName": "E:\\User\\Hasan\\Projects\\API\\NLayerProject\\NLayerProject.Service\\NLayerProject.Service.csproj",
       "projectName": "NLayerProject.Service",
-      "projectPath": "E:\\User\\Hasan\\Projects\\API\\OnionArch\\NLayerProject\\NLayerProject.Service\\NLayerProject.Service.csproj",
+      "projectPath": "E:\\User\\Hasan\\Projects\\API\\NLayerProject\\NLayerProject.Service\\NLayerProject.Service.csproj",
       "packagesPath": "C:\\Users\\Hasan\\.nuget\\packages\\",
-      "outputPath": "E:\\User\\Hasan\\Projects\\API\\OnionArch\\NLayerProject\\NLayerProject.Service\\obj\\",
+      "outputPath": "E:\\User\\Hasan\\Projects\\API\\NLayerProject\\NLayerProject.Service\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -5667,11 +5667,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "E:\\User\\Hasan\\Projects\\API\\OnionArch\\NLayerProject\\NLayerProject.Core\\NLayerProject.Core.csproj": {
-              "projectPath": "E:\\User\\Hasan\\Projects\\API\\OnionArch\\NLayerProject\\NLayerProject.Core\\NLayerProject.Core.csproj"
+            "E:\\User\\Hasan\\Projects\\API\\NLayerProject\\NLayerProject.Core\\NLayerProject.Core.csproj": {
+              "projectPath": "E:\\User\\Hasan\\Projects\\API\\NLayerProject\\NLayerProject.Core\\NLayerProject.Core.csproj"
             },
-            "E:\\User\\Hasan\\Projects\\API\\OnionArch\\NLayerProject\\NLayerProject.Data\\NLayerProject.Data.csproj": {
-              "projectPath": "E:\\User\\Hasan\\Projects\\API\\OnionArch\\NLayerProject\\NLayerProject.Data\\NLayerProject.Data.csproj"
+            "E:\\User\\Hasan\\Projects\\API\\NLayerProject\\NLayerProject.Data\\NLayerProject.Data.csproj": {
+              "projectPath": "E:\\User\\Hasan\\Projects\\API\\NLayerProject\\NLayerProject.Data\\NLayerProject.Data.csproj"
             }
           }
         }
