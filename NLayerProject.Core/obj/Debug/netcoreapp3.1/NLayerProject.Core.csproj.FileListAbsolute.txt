@@ -1,0 +1,9 @@
+E:\User\Hasan\Projects\API\OnionArch\NLayerProject\NLayerProject.Core\bin\Debug\netcoreapp3.1\NLayerProject.Core.deps.json
+E:\User\Hasan\Projects\API\OnionArch\NLayerProject\NLayerProject.Core\bin\Debug\netcoreapp3.1\NLayerProject.Core.dll
+E:\User\Hasan\Projects\API\OnionArch\NLayerProject\NLayerProject.Core\bin\Debug\netcoreapp3.1\NLayerProject.Core.pdb
+E:\User\Hasan\Projects\API\OnionArch\NLayerProject\NLayerProject.Core\obj\Debug\netcoreapp3.1\NLayerProject.Core.AssemblyInfoInputs.cache
+E:\User\Hasan\Projects\API\OnionArch\NLayerProject\NLayerProject.Core\obj\Debug\netcoreapp3.1\NLayerProject.Core.AssemblyInfo.cs
+E:\User\Hasan\Projects\API\OnionArch\NLayerProject\NLayerProject.Core\obj\Debug\netcoreapp3.1\NLayerProject.Core.csproj.CoreCompileInputs.cache
+E:\User\Hasan\Projects\API\OnionArch\NLayerProject\NLayerProject.Core\obj\Debug\netcoreapp3.1\NLayerProject.Core.dll
+E:\User\Hasan\Projects\API\OnionArch\NLayerProject\NLayerProject.Core\obj\Debug\netcoreapp3.1\NLayerProject.Core.pdb
+E:\User\Hasan\Projects\API\OnionArch\NLayerProject\NLayerProject.Core\obj\Debug\netcoreapp3.1\NLayerProject.Core.csprojAssemblyReference.cache

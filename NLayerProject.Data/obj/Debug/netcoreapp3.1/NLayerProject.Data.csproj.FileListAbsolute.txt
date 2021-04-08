@@ -1,0 +1,15 @@
+E:\User\Hasan\Projects\API\OnionArch\NLayerProject\NLayerProject.Data\bin\Debug\netcoreapp3.1\NLayerProject.Data.deps.json
+E:\User\Hasan\Projects\API\OnionArch\NLayerProject\NLayerProject.Data\bin\Debug\netcoreapp3.1\NLayerProject.Data.dll
+E:\User\Hasan\Projects\API\OnionArch\NLayerProject\NLayerProject.Data\bin\Debug\netcoreapp3.1\NLayerProject.Data.pdb
+E:\User\Hasan\Projects\API\OnionArch\NLayerProject\NLayerProject.Data\obj\Debug\netcoreapp3.1\NLayerProject.Data.csprojAssemblyReference.cache
+E:\User\Hasan\Projects\API\OnionArch\NLayerProject\NLayerProject.Data\obj\Debug\netcoreapp3.1\NLayerProject.Data.AssemblyInfoInputs.cache
+E:\User\Hasan\Projects\API\OnionArch\NLayerProject\NLayerProject.Data\obj\Debug\netcoreapp3.1\NLayerProject.Data.AssemblyInfo.cs
+E:\User\Hasan\Projects\API\OnionArch\NLayerProject\NLayerProject.Data\obj\Debug\netcoreapp3.1\NLayerProject.Data.csproj.CoreCompileInputs.cache
+E:\User\Hasan\Projects\API\OnionArch\NLayerProject\NLayerProject.Data\obj\Debug\netcoreapp3.1\NLayerProject.Data.dll
+E:\User\Hasan\Projects\API\OnionArch\NLayerProject\NLayerProject.Data\obj\Debug\netcoreapp3.1\NLayerProject.Data.pdb
+E:\User\Hasan\Projects\API\OnionArch\NLayerProject\NLayerProject.Data\bin\Debug\netcoreapp3.1\NLayerProject.Core.dll
+E:\User\Hasan\Projects\API\OnionArch\NLayerProject\NLayerProject.Data\bin\Debug\netcoreapp3.1\NLayerProject.Core.pdb
+E:\User\Hasan\Projects\API\OnionArch\NLayerProject\NLayerProject.Data\obj\Debug\netcoreapp3.1\NLayerProject.Data.csproj.CopyComplete
+E:\User\Hasan\Projects\API\OnionArch\NLayerProject\NLayerProject.Data\bin\Debug\netcoreapp3.1\NLayerProject.Data.runtimeconfig.json
+E:\User\Hasan\Projects\API\OnionArch\NLayerProject\NLayerProject.Data\bin\Debug\netcoreapp3.1\NLayerProject.Data.runtimeconfig.dev.json
+E:\User\Hasan\Projects\API\OnionArch\NLayerProject\NLayerProject.Data\obj\Debug\netcoreapp3.1\NLayerProject.Data.genruntimeconfig.cache
