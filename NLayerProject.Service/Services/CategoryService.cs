@@ -4,22 +4,22 @@ using NLayerProject.Core.Services;
 using NLayerProject.Core.UnitOfWork;
 using System;
 using System.Collections.Generic;
-using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
 
 namespace NLayerProject.Service.Services
 {
-    public class ProductService : Service<Product>, IProductService
+ public  class CategoryService : Service<Category>, ICategoryService
     {
-        public ProductService(IUnitOfWork unitOfWork, IRepository<Product> repository):base(unitOfWork,repository)
+        public CategoryService(IUnitOfWork unitOfWork, IRepository<Category> repository) : 
+                                                                    base(unitOfWork, repository)
         {
             //_unitOfWork = unitOfWork;
             //_repository = repository;
         }
-        public async Task<Product> GetWithCategoryByIdAsync(int productId)
+        public async Task<Category> GetWithProductsByIdAsync(int categoryId)
         {
-          return await _unitOfWork.Products.GetWithCategoryByIdAsync(productId);
+            return await _unitOfWork.Categories.GetWithProductsByIdAsync(categoryId);
         }
     }
 }

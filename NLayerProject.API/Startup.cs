@@ -6,9 +6,13 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
+using NLayerProject.Core.Repositories;
+using NLayerProject.Core.Services;
 using NLayerProject.Core.UnitOfWork;
 using NLayerProject.Data;
+using NLayerProject.Data.Repositories;
 using NLayerProject.Data.UnitOfWorks;
+using NLayerProject.Service.Services;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -28,6 +32,16 @@ namespace NLayerProject.API
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            //dependency Injection
+            services.AddAutoMapper(typeof(Startup));
+
+            services.AddTransient<IUnitOfWork, UnitOfWork>();
+            services.AddScoped(typeof(IRepository<>),typeof(Repository<>));
+            services.AddScoped(typeof(IService<>),typeof(Service.Services.Service<>));
+            services.AddScoped<ICategoryService,CategoryService>();
+            services.AddScoped<IProductService, ProductService>();
+
+
             services.AddDbContext<AppDbContext>(options =>
             {
                 options.UseSqlServer(Configuration["ConnectionStrings:Default"].ToString(),o=> {
@@ -35,7 +49,6 @@ namespace NLayerProject.API
                 });
             });
 
-            services.AddTransient<IUnitOfWork,UnitOfWork>();
             services.AddControllers();
         }
 
