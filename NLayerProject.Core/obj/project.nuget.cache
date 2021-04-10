@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "saQ0LCTom/7ny8qMUCkimyM7/M4lGsNDXzEqpFLXnH73Mw1TovQH0sNJr8kH10XDHT/uSmg0LurSbQgbcdde5g==",
+  "dgSpecHash": "QcjFH1uSbowHe84P/gcHjPOkfOE2flSDfcIy3/m6IMisiU0IbL6S4Pi0uKlF4+iHGdZNtZUS/AzaVDqS1fccRA==",
   "success": true,
   "projectFilePath": "E:\\User\\Hasan\\Projects\\API\\NLayerProject\\NLayerProject.Core\\NLayerProject.Core.csproj",
   "expectedPackageFiles": [
@@ -12,6 +12,7 @@
     "C:\\Users\\Hasan\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\3.1.14\\microsoft.entityframeworkcore.analyzers.3.1.14.nupkg.sha512",
     "C:\\Users\\Hasan\\.nuget\\packages\\microsoft.entityframeworkcore.design\\3.1.14\\microsoft.entityframeworkcore.design.3.1.14.nupkg.sha512",
     "C:\\Users\\Hasan\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\3.1.14\\microsoft.entityframeworkcore.relational.3.1.14.nupkg.sha512",
+    "C:\\Users\\Hasan\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\3.1.14\\microsoft.entityframeworkcore.tools.3.1.14.nupkg.sha512",
     "C:\\Users\\Hasan\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\3.1.14\\microsoft.extensions.caching.abstractions.3.1.14.nupkg.sha512",
     "C:\\Users\\Hasan\\.nuget\\packages\\microsoft.extensions.caching.memory\\3.1.14\\microsoft.extensions.caching.memory.3.1.14.nupkg.sha512",
     "C:\\Users\\Hasan\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.14\\microsoft.extensions.configuration.3.1.14.nupkg.sha512",

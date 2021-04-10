@@ -8,7 +8,8 @@
     ".NETCoreApp,Version=v3.1": {
       "NLayerProject.Core/1.0.0": {
         "dependencies": {
-          "Microsoft.EntityFrameworkCore.Design": "3.1.14"
+          "Microsoft.EntityFrameworkCore.Design": "3.1.14",
+          "Microsoft.EntityFrameworkCore.Tools": "3.1.14"
         },
         "runtime": {
           "NLayerProject.Core.dll": {}
@@ -81,6 +82,11 @@
             "assemblyVersion": "3.1.14.0",
             "fileVersion": "3.100.1421.16508"
           }
+        }
+      },
+      "Microsoft.EntityFrameworkCore.Tools/3.1.14": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.Design": "3.1.14"
         }
       },
       "Microsoft.Extensions.Caching.Abstractions/3.1.14": {
@@ -282,6 +288,13 @@
       "sha512": "sha512-t7dp/bMF+iF2WfBF0CqugtAagHLbmjAvSlJLMrKPoAPYINusKrV+WOr+9lPivf6juMog2Lq0VTVsj5N6f5F/CQ==",
       "path": "microsoft.entityframeworkcore.relational/3.1.14",
       "hashPath": "microsoft.entityframeworkcore.relational.3.1.14.nupkg.sha512"
+    },
+    "Microsoft.EntityFrameworkCore.Tools/3.1.14": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-dIqOuk9NI7qbCTWYULPRU8BZC9a5VsN8I47oIckKVtCI2FIb/wJd77xBAPl6YNarAtvi3ZmZLAoEP75g1uKTmg==",
+      "path": "microsoft.entityframeworkcore.tools/3.1.14",
+      "hashPath": "microsoft.entityframeworkcore.tools.3.1.14.nupkg.sha512"
     },
     "Microsoft.Extensions.Caching.Abstractions/3.1.14": {
       "type": "package",
