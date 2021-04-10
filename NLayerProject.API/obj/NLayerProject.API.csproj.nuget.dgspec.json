@@ -33,12 +33,6 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "E:\\User\\Hasan\\Projects\\API\\NLayerProject\\NLayerProject.Core\\NLayerProject.Core.csproj": {
-                "projectPath": "E:\\User\\Hasan\\Projects\\API\\NLayerProject\\NLayerProject.Core\\NLayerProject.Core.csproj"
-              },
-              "E:\\User\\Hasan\\Projects\\API\\NLayerProject\\NLayerProject.Data\\NLayerProject.Data.csproj": {
-                "projectPath": "E:\\User\\Hasan\\Projects\\API\\NLayerProject\\NLayerProject.Data\\NLayerProject.Data.csproj"
-              },
               "E:\\User\\Hasan\\Projects\\API\\NLayerProject\\NLayerProject.Service\\NLayerProject.Service.csproj": {
                 "projectPath": "E:\\User\\Hasan\\Projects\\API\\NLayerProject\\NLayerProject.Service\\NLayerProject.Service.csproj"
               }

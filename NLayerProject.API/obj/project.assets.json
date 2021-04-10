@@ -5752,8 +5752,6 @@
       "AutoMapper >= 10.1.1",
       "AutoMapper.Extensions.Microsoft.DependencyInjection >= 8.1.1",
       "Microsoft.EntityFrameworkCore.Design >= 3.1.14",
-      "NLayerProject.Core >= 1.0.0",
-      "NLayerProject.Data >= 1.0.0",
       "NLayerProject.Service >= 1.0.0"
     ]
   },
@@ -5791,12 +5789,6 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "E:\\User\\Hasan\\Projects\\API\\NLayerProject\\NLayerProject.Core\\NLayerProject.Core.csproj": {
-              "projectPath": "E:\\User\\Hasan\\Projects\\API\\NLayerProject\\NLayerProject.Core\\NLayerProject.Core.csproj"
-            },
-            "E:\\User\\Hasan\\Projects\\API\\NLayerProject\\NLayerProject.Data\\NLayerProject.Data.csproj": {
-              "projectPath": "E:\\User\\Hasan\\Projects\\API\\NLayerProject\\NLayerProject.Data\\NLayerProject.Data.csproj"
-            },
             "E:\\User\\Hasan\\Projects\\API\\NLayerProject\\NLayerProject.Service\\NLayerProject.Service.csproj": {
               "projectPath": "E:\\User\\Hasan\\Projects\\API\\NLayerProject\\NLayerProject.Service\\NLayerProject.Service.csproj"
             }

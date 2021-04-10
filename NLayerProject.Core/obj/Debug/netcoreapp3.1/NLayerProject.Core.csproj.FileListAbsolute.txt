@@ -12,10 +12,10 @@ E:\User\Hasan\Projects\API\NLayerProject\NLayerProject.Core\bin\Debug\netcoreapp
 E:\User\Hasan\Projects\API\NLayerProject\NLayerProject.Core\bin\Debug\netcoreapp3.1\NLayerProject.Core.runtimeconfig.dev.json
 E:\User\Hasan\Projects\API\NLayerProject\NLayerProject.Core\bin\Debug\netcoreapp3.1\NLayerProject.Core.dll
 E:\User\Hasan\Projects\API\NLayerProject\NLayerProject.Core\bin\Debug\netcoreapp3.1\NLayerProject.Core.pdb
-E:\User\Hasan\Projects\API\NLayerProject\NLayerProject.Core\obj\Debug\netcoreapp3.1\NLayerProject.Core.csprojAssemblyReference.cache
 E:\User\Hasan\Projects\API\NLayerProject\NLayerProject.Core\obj\Debug\netcoreapp3.1\NLayerProject.Core.AssemblyInfoInputs.cache
 E:\User\Hasan\Projects\API\NLayerProject\NLayerProject.Core\obj\Debug\netcoreapp3.1\NLayerProject.Core.AssemblyInfo.cs
 E:\User\Hasan\Projects\API\NLayerProject\NLayerProject.Core\obj\Debug\netcoreapp3.1\NLayerProject.Core.csproj.CoreCompileInputs.cache
 E:\User\Hasan\Projects\API\NLayerProject\NLayerProject.Core\obj\Debug\netcoreapp3.1\NLayerProject.Core.dll
 E:\User\Hasan\Projects\API\NLayerProject\NLayerProject.Core\obj\Debug\netcoreapp3.1\NLayerProject.Core.pdb
 E:\User\Hasan\Projects\API\NLayerProject\NLayerProject.Core\obj\Debug\netcoreapp3.1\NLayerProject.Core.genruntimeconfig.cache
+E:\User\Hasan\Projects\API\NLayerProject\NLayerProject.Core\obj\Debug\netcoreapp3.1\NLayerProject.Core.csprojAssemblyReference.cache
